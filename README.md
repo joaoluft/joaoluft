@@ -1,4 +1,5 @@
 <h1>Olá, eu sou João Luft</h1>
+<p>Desenvolvedor Back-End - Web & Desktop.</p>
 <h3 style="margin-top: 35px;">Linguagens:</h3>
 
 <div>
