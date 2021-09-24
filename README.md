@@ -2,4 +2,4 @@
 <p>Estudante de desenvolvimento back-end desktop com:</p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=joaovitor227&theme=dark&show_icons=true"></img>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod"></img>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&show_icons=true"></img>
