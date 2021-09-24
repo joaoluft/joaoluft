@@ -3,4 +3,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=joaovitor227&theme=dark"></img>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dark&show_icons=true"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor227&layout=compact"></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor227&layout=compact&theme=dark"></img>
