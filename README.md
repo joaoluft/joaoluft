@@ -70,7 +70,7 @@
     </div>
 
 
-    <div style="margin-left: 30px;">
+    <div>
         <h2>Back-end</h2>
 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
@@ -110,7 +110,7 @@
 
     </div>
 
-    <div style="margin-left: 30px;">
+    <div>
         <h2>Ferramentas</h2>
 
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
