@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.kibrispdr.org/data/1788/komputer-kartun-13.gif" width="200"/>
+  <img src="https://anuragbhardwaj.netlify.app/codingguy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
