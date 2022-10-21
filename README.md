@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://www.sparkwavegroup.com/wp-content/uploads/2022/07/Coding_01-1-1.gif" width="200"/>
+  <img src="https://www.sparkwavegroup.com/wp-content/uploads/2022/07/Coding_01-1-1.gif" width="400"/>
 </div>
 
 <div id="badges" align="center">
