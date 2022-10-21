@@ -77,6 +77,11 @@
     foco no Desenvolvimento Web onde realizei multiplos projetos na área, procurando aperfeiçoar a cada dia mais minhas
     habilidades.</h5>
 
+
+
+
+
+
 <h3 align="center">Linguagens e Ferramentas:</h3>
 
 <div align="center" style="display:flex;">
@@ -180,3 +185,5 @@
     </div>
 
 </div>
+
+
