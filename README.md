@@ -13,9 +13,9 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             alt="Instagram Badge" />
     </a>
-    <a href="https://twitter.com/cyberxbtw">
+    <a href="https://twitter.com/joaoluft_">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-            alt="Twitter Badge" />
+            alt="Twitter Bage" />
     </a>
 </div>
 
@@ -31,9 +31,6 @@
     </h1>
 </div>
 
-<div align="center">
-    <img src="https://jonathangulliksen.no/assets/programming-code.gif" alt="" />
-</div>
 
 <p align="center">
     Olá, me chamo João Luft, um entusiasta apaixonado por tecnologia, imerso no universo da programação. Minha dedicação se concentra especialmente no Desenvolvimento Web, onde tenho concretizado uma série de projetos notáveis. A jornada tem sido uma constante busca pela excelência, aprimorando minhas habilidades continuamente.
@@ -44,4 +41,12 @@
 <div align="center">
     <h1>Skills</h1>
     <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,nodejs,flask,vite,react,tailwind,postgres,mysql,git,github,docker,cypress,figma&theme=dark&perline=8" alt="Skills icons" />
+</div>
+
+<br/>
+<br/>
+<br/>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="" />
 </div>
