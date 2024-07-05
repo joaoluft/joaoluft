@@ -33,7 +33,11 @@
 
 
 <p align="center">
-    Olá, me chamo João Luft, um entusiasta apaixonado por tecnologia, imerso no universo da programação. Minha dedicação se concentra especialmente no Desenvolvimento Web, onde tenho concretizado uma série de projetos notáveis. A jornada tem sido uma constante busca pela excelência, aprimorando minhas habilidades continuamente.
+    Sou um desenvolvedor Fullstack com experiência na criação de aplicações web e familiaridade também com desenvolvimento mobile. Gosto de resolver problemas complexos e projetar soluções escaláveis. 
+
+Além do meu trabalho atual como desenvolvedor de software, tenho uma história significativa como freelancer especializado em desenvolvimento web. Ao longo dos anos, trabalhei de forma independente, colaborando diretamente com clientes para criar soluções personalizadas que atendessem às suas necessidades específicas.
+
+Vejo-me como uma pessoa proativa, trabalhadora, dedicada e eloquente. Gosto de trabalhar em equipe para compartilhar experiências e agregar conhecimentos, além da motivação mútua. Acredito no meu potencial e estou sempre em busca de oportunidades que me permitam continuar explorando-o, seja de forma híbrida ou remota.
 </p>
 
 <br/>
