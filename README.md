@@ -9,13 +9,9 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="LinkedIn Badge" />
     </a>
-    <a href="https://www.instagram.com/joao.luft_/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            alt="Instagram Badge" />
-    </a>
-    <a href="https://twitter.com/joaoluft_">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-            alt="Twitter Bage" />
+    <a href="https://joaoluft.carrd.co/">
+        <img src="https://img.shields.io/badge/Carrd-FF6F61?style=for-the-badge&logo=carrd&logoColor=white"
+            alt="Carrd Badge" />
     </a>
 </div>
 
@@ -44,7 +40,7 @@ Vejo-me como uma pessoa proativa, trabalhadora, dedicada e eloquente. Gosto de t
 
 <div align="center">
     <h1>Skills</h1>
-    <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,nodejs,flask,vite,react,tailwind,postgres,mysql,git,github,docker,cypress,figma&theme=dark&perline=8" alt="Skills icons" />
+    <img src="https://skillicons.dev/icons?i=python,cs,typescript,nodejs,fastapi,react,tailwind,mongo,postgres,mysql,git,github,aws,azure,docker,kubernetes&theme=dark&perline=8" alt="Skills icons" />
 </div>
 
 <br/>
