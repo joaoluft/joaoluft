@@ -42,11 +42,3 @@ Vejo-me como uma pessoa proativa, trabalhadora, dedicada e eloquente. Gosto de t
     <h1>Skills</h1>
     <img src="https://skillicons.dev/icons?i=python,cs,typescript,nodejs,fastapi,react,tailwind,mongo,postgres,mysql,git,github,aws,azure,docker,kubernetes&theme=dark&perline=8" alt="Skills icons" />
 </div>
-
-<br/>
-<br/>
-<br/>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" alt="" />
-</div>
