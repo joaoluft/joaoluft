@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-Sou <strong>Desenvolvedor Fullstack com foco em Inteligência Artificial</strong>, especializado na construção de
+Sou <strong>Desenvolvedor de Software com foco em Inteligência Artificial</strong>, especializado na construção de
 <strong>soluções avançadas de IA generativa</strong> utilizando <strong>Python</strong> e <strong>Node.js</strong>.
 
 Tenho sólida experiência no desenvolvimento de <strong>chatbots inteligentes</strong>, agentes autônomos e
